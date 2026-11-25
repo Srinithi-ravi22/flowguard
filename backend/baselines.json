@@ -1,0 +1,12 @@
+{
+    "Email Automation": {
+        "expected_events": 2,
+        "max_repetitions": 1,
+        "allowed_retries": 0
+    },
+    "Payment Automation": {
+        "expected_events": 3,
+        "max_repetitions": 2,
+        "allowed_retries": 1
+    }
+}

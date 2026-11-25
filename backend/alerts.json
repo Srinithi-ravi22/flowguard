@@ -1,0 +1,109 @@
+[
+    {
+        "workflow_name": "Email Automation",
+        "risk_score": 60,
+        "severity": "HIGH",
+        "pattern": [
+            "USER_REGISTERED",
+            "WELCOME_EMAIL_SENT"
+        ],
+        "repetitions": 3,
+        "message": "HIGH RISK: Suspicious repetitive activity detected in Email Automation",
+        "last_detected": "2026-11-23T20:34:42.098973+00:00",
+        "status": "RESOLVED",
+        "alert_id": "6146c884-2830-4c6c-a3e0-11658e859221",
+        "created_at": "2026-11-23T20:34:42.100981+00:00",
+        "resolved_at": "2026-11-23T20:54:17.869070+00:00"
+    },
+    {
+        "workflow_name": "Email Automation",
+        "risk_score": 60,
+        "severity": "HIGH",
+        "pattern": [
+            "USER_REGISTERED",
+            "WELCOME_EMAIL_SENT"
+        ],
+        "repetitions": 3,
+        "message": "HIGH RISK: Suspicious repetitive activity detected in Email Automation",
+        "last_detected": "2026-11-23T20:54:23.038527+00:00",
+        "status": "RESOLVED",
+        "alert_id": "5ba66556-892e-4e39-bff5-1e2cf0228da8",
+        "created_at": "2026-11-23T20:54:23.038527+00:00",
+        "resolved_at": "2026-11-24T17:04:24.612164+00:00"
+    },
+    {
+        "workflow_name": "Postman External Test",
+        "risk_score": 70,
+        "severity": "HIGH",
+        "pattern": [
+            "USER_REGISTERED"
+        ],
+        "repetitions": 4,
+        "message": "HIGH RISK: Suspicious repetitive activity detected in Postman External Test",
+        "last_detected": "2026-11-23T21:28:20.804954+00:00",
+        "status": "RESOLVED",
+        "alert_id": "4f93c7b2-c049-4920-a253-a27c7ffe0c8e",
+        "created_at": "2026-11-23T21:28:19.501997+00:00",
+        "resolved_at": "2026-11-23T21:28:57.219601+00:00"
+    },
+    {
+        "workflow_name": "Postman External Test",
+        "risk_score": 60,
+        "severity": "HIGH",
+        "pattern": [
+            "WELCOME_EMAIL_SENT"
+        ],
+        "repetitions": 3,
+        "message": "HIGH RISK: Suspicious repetitive activity detected in Postman External Test",
+        "last_detected": "2026-11-23T21:29:03.102376+00:00",
+        "status": "ACTIVE",
+        "alert_id": "28638422-d783-4fad-9b0c-1e742c365458",
+        "created_at": "2026-11-23T21:29:03.102376+00:00"
+    },
+    {
+        "workflow_name": "Inventory Automation",
+        "risk_score": 80,
+        "severity": "CRITICAL",
+        "pattern": [
+            "STOCK_CHECKED",
+            "STOCK_UPDATED"
+        ],
+        "repetitions": 6,
+        "message": "CRITICAL RISK: Suspicious repetitive activity detected in Inventory Automation",
+        "last_detected": "2026-11-24T17:07:45.791846+00:00",
+        "status": "ACTIVE",
+        "alert_id": "03181331-7a01-4654-a2f5-677a9ec64bcb",
+        "created_at": "2026-11-24T17:04:30.837198+00:00"
+    },
+    {
+        "workflow_name": "User Registration",
+        "risk_score": 70,
+        "severity": "HIGH",
+        "pattern": [
+            "USER_REGISTERED",
+            "WELCOME_EMAIL_SENT"
+        ],
+        "repetitions": 4,
+        "message": "HIGH RISK: Suspicious repetitive activity detected in User Registration",
+        "last_detected": "2026-11-24T17:22:08.094335+00:00",
+        "status": "ACTIVE",
+        "alert_id": "a79d6871-02f3-4854-bd9d-06357881e9dc",
+        "created_at": "2026-11-24T17:22:07.032856+00:00"
+    },
+    {
+        "workflow_name": "User Registration",
+        "execution_id": "cce6392e-733c-415d-975a-dbaffd7eed16",
+        "risk_score": 70,
+        "severity": "HIGH",
+        "pattern": [
+            "USER_REGISTERED",
+            "WELCOME_EMAIL_SENT"
+        ],
+        "repetitions": 4,
+        "message": "HIGH RISK: Suspicious repetitive activity detected in User Registration",
+        "last_detected": "2026-11-24T17:29:30.759573+00:00",
+        "status": "ACTIVE",
+        "alert_id": "3b786211-4c5a-4d51-9547-d84f94079d6d",
+        "created_at": "2026-11-24T17:29:29.723076+00:00"
+    }
+]
