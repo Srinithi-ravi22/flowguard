@@ -238,5 +238,117 @@
         "timestamp": "2026-11-25T06:15:43.133157+00:00",
         "source": "FlowGuard Demo Application",
         "details": {}
+    },
+    {
+        "workflow_name": "Payment Automation",
+        "event": "PAYMENT_INITIATED",
+        "execution_id": "3b2767fa-da14-4a60-8c96-6df3d9811e58",
+        "timestamp": "2026-11-25T12:01:10.779550+00:00",
+        "source": "FlowGuard Demo Application",
+        "details": {}
+    },
+    {
+        "workflow_name": "Payment Automation",
+        "event": "PAYMENT_FAILED",
+        "execution_id": "3b2767fa-da14-4a60-8c96-6df3d9811e58",
+        "timestamp": "2026-11-25T12:01:11.361936+00:00",
+        "source": "FlowGuard Demo Application",
+        "details": {}
+    },
+    {
+        "workflow_name": "Payment Automation",
+        "event": "PAYMENT_RETRY",
+        "execution_id": "3b2767fa-da14-4a60-8c96-6df3d9811e58",
+        "timestamp": "2026-11-25T12:01:11.892966+00:00",
+        "source": "FlowGuard Demo Application",
+        "details": {}
+    },
+    {
+        "workflow_name": "Payment Automation",
+        "event": "PAYMENT_INITIATED",
+        "execution_id": "3b2767fa-da14-4a60-8c96-6df3d9811e58",
+        "timestamp": "2026-11-25T12:01:12.413770+00:00",
+        "source": "FlowGuard Demo Application",
+        "details": {}
+    },
+    {
+        "workflow_name": "Payment Automation",
+        "event": "PAYMENT_FAILED",
+        "execution_id": "3b2767fa-da14-4a60-8c96-6df3d9811e58",
+        "timestamp": "2026-11-25T12:01:12.947057+00:00",
+        "source": "FlowGuard Demo Application",
+        "details": {}
+    },
+    {
+        "workflow_name": "Payment Automation",
+        "event": "PAYMENT_RETRY",
+        "execution_id": "3b2767fa-da14-4a60-8c96-6df3d9811e58",
+        "timestamp": "2026-11-25T12:01:13.581945+00:00",
+        "source": "FlowGuard Demo Application",
+        "details": {}
+    },
+    {
+        "workflow_name": "Payment Automation",
+        "event": "PAYMENT_INITIATED",
+        "execution_id": "3b2767fa-da14-4a60-8c96-6df3d9811e58",
+        "timestamp": "2026-11-25T12:01:14.104077+00:00",
+        "source": "FlowGuard Demo Application",
+        "details": {}
+    },
+    {
+        "workflow_name": "Payment Automation",
+        "event": "PAYMENT_FAILED",
+        "execution_id": "3b2767fa-da14-4a60-8c96-6df3d9811e58",
+        "timestamp": "2026-11-25T12:01:14.642002+00:00",
+        "source": "FlowGuard Demo Application",
+        "details": {}
+    },
+    {
+        "workflow_name": "Payment Automation",
+        "event": "PAYMENT_RETRY",
+        "execution_id": "3b2767fa-da14-4a60-8c96-6df3d9811e58",
+        "timestamp": "2026-11-25T12:01:15.335823+00:00",
+        "source": "FlowGuard Demo Application",
+        "details": {}
+    },
+    {
+        "workflow_name": "Payment Automation",
+        "event": "PAYMENT_INITIATED",
+        "execution_id": "3b2767fa-da14-4a60-8c96-6df3d9811e58",
+        "timestamp": "2026-11-25T12:01:15.867644+00:00",
+        "source": "FlowGuard Demo Application",
+        "details": {}
+    },
+    {
+        "workflow_name": "Payment Automation",
+        "event": "PAYMENT_FAILED",
+        "execution_id": "3b2767fa-da14-4a60-8c96-6df3d9811e58",
+        "timestamp": "2026-11-25T12:01:16.387323+00:00",
+        "source": "FlowGuard Demo Application",
+        "details": {}
+    },
+    {
+        "workflow_name": "Payment Automation",
+        "event": "PAYMENT_RETRY",
+        "execution_id": "3b2767fa-da14-4a60-8c96-6df3d9811e58",
+        "timestamp": "2026-11-25T12:01:16.913622+00:00",
+        "source": "FlowGuard Demo Application",
+        "details": {}
+    },
+    {
+        "workflow_name": "Email Automation",
+        "event": "USER_REGISTERED",
+        "execution_id": "7fa99337-7c98-4fdd-94f8-a93ba8e6993d",
+        "timestamp": "2026-11-25T12:03:54.753045+00:00",
+        "source": "FlowGuard Demo Application",
+        "details": {}
+    },
+    {
+        "workflow_name": "Email Automation",
+        "event": "WELCOME_EMAIL_SENT",
+        "execution_id": "7fa99337-7c98-4fdd-94f8-a93ba8e6993d",
+        "timestamp": "2026-11-25T12:03:55.294671+00:00",
+        "source": "FlowGuard Demo Application",
+        "details": {}
     }
 ]
